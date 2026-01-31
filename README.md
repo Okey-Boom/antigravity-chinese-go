@@ -1,7 +1,7 @@
 # 🌐 Antigravity 一键汉化工具 (Go 语言版)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.3-blue.svg" alt="version">
+  <img src="https://img.shields.io/badge/version-3.4-blue.svg" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows-0078d4.svg" alt="platform">
   <img src="https://img.shields.io/badge/language-Go-00ADD8.svg" alt="language">
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="license">
@@ -57,7 +57,7 @@ Antigravity 安装目录/
 
 ### 直接下载 EXE
 
-下载 `antigravity_translator.exe` (~3.4MB)，双击即可运行。
+下载 `antigravity_translator.exe` (~0.95MB)，双击即可运行。
 
 **无需安装 Go 或任何运行时环境！**
 
@@ -337,3 +337,4 @@ var normalTranslationsMain = map[string]string{
 <p align="center">
   Made with ❤️ in Go
 </p>
+
